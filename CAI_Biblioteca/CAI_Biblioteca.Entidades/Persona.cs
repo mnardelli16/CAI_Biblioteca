@@ -15,6 +15,8 @@ namespace CAI_Biblioteca.Entidades
         {
             this.id = id;
             this.name = name;
+
+            string a;
         }
     }
 }
